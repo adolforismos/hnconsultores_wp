@@ -16,3 +16,5 @@ Fundada por el Mtro. Hector L. Navarro, somos la primera consultoría educativa 
 Expertos en la planeación, diseño y ejecución de programas para carreras e instituciones escolares en educación media y superior.
 
 Contamos con más de 20 años de experiencia dedicados a la gestoría jurídica y legal, asesoría, consultoría, administración, así como la sistematización y optimización de proyectos en licenciaturas, maestrías, especialidades y doctorados.
+
+Acércate a conocernos.
