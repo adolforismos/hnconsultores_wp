@@ -43,15 +43,13 @@ post_date: 2017-04-26 01:04:50
 - Corrección de observaciones señaladas por la SEP conforme a la Guía de Evaluación.
 - Revisión y para VoBo (informe técnico) para el ingreso de planes  para trámite de RVOE.
 
-
 ## Asesoría y Gestoría ante la Dirección General de Profesiones (DGP)
-
 
 - Solicitud, formato e instructivo.
 - Registro de establecimiento educativo.
 - Enmienda al registro para la adición de estudios.
 - Enmienda al cambio de nomenclatura de carrera o institución educativa
 - Actualizaciones de expedientes por planes de estudios, firmas, sellos, formatos.
-- Tramite de registro de títulos y expedición de cédula profesional para nivel medio superior y superior.
+- Trámite de registro de títulos y expedición de cédula profesional para nivel medio superior y superior.
 - Seguimiento de tramites de cédulas rechazadas.
-- Tramite de duplicado de cédula (en ventanilla o gestoría).
+- Trámite de duplicado de cédula (en ventanilla o gestoría).
