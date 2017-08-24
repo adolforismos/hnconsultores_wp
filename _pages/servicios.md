@@ -44,7 +44,7 @@ post_date: 2017-04-26 01:04:50
 - Revisión y para VoBo (informe técnico) para el ingreso de planes  para trámite de RVOE.
 
 
-## Asesoría y Gestoría anta la Dirección General de Profesiones (DGP)
+## Asesoría y Gestoría ante la Dirección General de Profesiones (DGP)
 
 
 - Solicitud, formato e instructivo.
